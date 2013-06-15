@@ -5,10 +5,10 @@
         versionCode="8" 
         version   = "1.0.0">
 
-    <name>Vlad's TEst</name>
+    <name>Publix(Vlad's Test)</name>
 
     <description>
-        Teeeest Weeeeeeeeeeeeeee!
+        :)
     </description>
 <preference name="android-minSdkVersion" value="8" />
 <preference name="android-maxSdkVersion" value="17" />
